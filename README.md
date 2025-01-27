@@ -1,3 +1,3 @@
-# Lama Dev AI Chat Bot App Starter Setup
+# Virginate AI Chat Bot App Development
 
-This template provides a minimal setup to get React 19 working in Vite with HMR and some ESLint rules.
+Virginate AI Is currently in development
